@@ -5,7 +5,7 @@ License:        GPL-3.0
 Summary:        Displays where a particular program in your path is located
 Url:            http://www.xs4all.nl/~carlo17/which/
 Group:          Applications/System
-Source0:        http://www.xs4all.nl/~carlo17/which/%{name}-%{version}.tar.gz
+Source0:        http://www.xs4all.nl/~carlo17/which/%{name}-%{version}.tar.bz2
 BuildRequires:  readline-devel
 
 %description
